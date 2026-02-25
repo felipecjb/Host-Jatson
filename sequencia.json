@@ -1,0 +1,18 @@
+[
+    {
+        "estado": "Perseguicao_Cega",
+        "parametros": {
+            "velocidade_linear": 28.0,
+            "tempo": 1.0,
+            "tempoLed": -1.0
+        }
+    },
+    {
+        "estado": "Perseguicao_Cega",
+        "parametros": {
+            "velocidade_linear": 20.0,
+            "tempo": 1.0,
+            "tempoLed": -1.0
+        }
+    }
+]
