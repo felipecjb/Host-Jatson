@@ -5,6 +5,7 @@ import os
 # Importando o controle do seu projeto
 try:
     from Conexoes.controlePS4 import controle
+    naoImportou = False
 except ImportError:
     naoImportou = True
 app = FastAPI()
